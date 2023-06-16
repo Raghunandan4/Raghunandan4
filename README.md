@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raghunandan4
 - 👀 I’m interested in - Python coding/projects
-- 🌱 I’m currently learning - Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning - Full Stack Web Development
+- 💞️ I’m looking to collaborate on Open source web dev projects
 - 📫 How to reach me - My email - speedkingraghu@gmail.com
 
 <!---
